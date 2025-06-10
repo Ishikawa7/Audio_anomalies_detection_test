@@ -1,4 +1,4 @@
-# Anomaly Detection on Audio MNIST (Digit "Six")
+# Anomaly Detection test on Audio MNIST (Digit "Six")
 ## Disclaimer: i used PCA but it would be better to use an autoencoder, i used simple algorithms for this test
 ---
 
