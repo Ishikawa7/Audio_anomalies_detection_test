@@ -8,3 +8,6 @@ pandas==2.3.0
 plotly==6.1.2
 scikit-learn==1.7.0
 scipy==1.15.3
+pacmap==0.8.0
+numpy==2.2.6
+pyod==2.0.5
